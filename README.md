@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ardhanurfan](https://medium.com/@ardhanurfan)
 
-- 💬 Ask me about **flutter, react, laravel, and more**
+- 💬 Ask me about **flutter, kotlin, react, laravel, and more**
 
 - 📫 How to reach me **ardhanurfan@gmail.com**
 
