@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardhan</h1>
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
+<h3 align="center">A passionate Software Developer from Indonesia</h3>
 
 <p align="center">
     <a href="https://ardhanurfan.vercel.app">My Personal Website</a>
